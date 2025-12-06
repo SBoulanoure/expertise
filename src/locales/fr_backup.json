@@ -1,0 +1,93 @@
+{
+    "header": {
+        "phone": "☎ +212 6 81 98 38 05",
+        "menu": {
+            "expertise": "Notre Cabinet",
+            "services": "Nos Services",
+            "contact": "Contact"
+        }
+    },
+    "hero": {
+        "title": "Expert Conseil en Litiges de Construction",
+        "subtitle": "ECOBATISSEUR SARL - Architecture, Urbanisme & Territoires Durables. Notre service d'expertise judiciaire en bâtiment, basé à El Jadida, vous offre un accompagnement technique et juridique complet pour défendre vos intérêts dans tous les litiges liés à la construction dans la région Doukkala–Abda.",
+        "buttonContact": "CONTACTEZ-NOUS"
+    },
+    "intro": {
+        "title": "ECOBATISSEUR SARL – Expertise Judiciaire & Technique ",
+        "description": "En tant que bureau d’études marocain spécialisé en architecture, urbanisme et expertise bâtiment, ECOBATISSEUR SARL propose un service haut de gamme d’expertise judiciaire pour accompagner particuliers, entreprises et institutions lors de litiges liés à la construction. ",
+        "subtitle": "Nous mettons à votre disposition :",
+        "points": [
+            "Une expertise technique certifiée,",
+            "Une connaissance profonde des normes marocaines, ",
+            "Une maîtrise des procédures judiciaires, ",
+            "Une indépendance totale vis-à-vis des assurances et constructeurs, ",
+            "Une identité architecturale haut de gamme reflétant votre marque (doré, élégance, sobriété). "
+        ],
+        "conclusion": "Contrairement aux experts d'assurance ou aux entreprises de travaux, nous sommes entièrement indépendants et défendons exclusivement vos intérêts. Notre objectif est clair : renforcer votre position juridique et vous donner toutes les preuves techniques nécessaires pour obtenir une décision favorable, que ce soit face à un constructeur, un artisan, un promoteur, une assurance, ou dans le cadre d'une expertise judiciaire contradictoire."
+    },
+    "services": {
+        "title": "Nos Services",
+        "service1": {
+            "title": "ASSISTANCE JUDICIAIRE",
+            "description": "Notre service d'expertise judiciaire en bâtiment, basé à El Jadida, vous offre un accompagnement technique et juridique complet pour défendre vos intérêts dans tous les litiges liés à la construction dans la région Doukkala–Abda.\n\nNos experts indépendants interviennent sur El Jadida, Sidi Bouzid, Azemmour, Bir Jdid, Oualidia, Safi et Casablanca-Settat, pour :\n\n• Évaluer avec précision les dommages et identifier les malfaçons\n• Analyser ou contester les rapports adverses (assurance, promoteur, constructeur…)\n• Réaliser des constats et rapports techniques détaillés, conformes aux exigences des tribunaux marocains\n• Vous assister lors des expertises judiciaires devant le Tribunal de Première Instance d'El Jadida, la Cour d'Appel ou les juridictions commerciales et administratives\n\nContrairement aux experts d’assurance ou aux entreprises de travaux, nous sommes entièrement indépendants et défendons exclusivement vos intérêts. "
+        },
+        "service2": {
+            "title": "ASSISTANCE DANS LE CADRE D'UNE EXPERTISE JUDICIAIRE",
+            "description": "Il peut s'adjoindre un ou plusieurs sapiteurs (techniciens d'une spécialité autre que celle de l'Expert). L'Expert Judiciaire est réputé impartial. Il rend un rapport qui permet au Tribunal d'obtenir des réponses aux questions de la mission. Il faut savoir que chaque partie bénéficie des droits de la défense. L'Avocat en ce qui concerne le droit, l'Expert d'assurance ou l'Expert Conseil en ce qui concerne la technique."
+        },
+        "service3": {
+            "title": "RAPPORT ET EXPERTISE DÉTAILLÉE",
+            "description": "Notre service d'expertise judiciaire se distingue par la qualité et la précision de nos rapports d'expertise. Nous fournissons des évaluations détaillées, étayées par des analyses techniques rigoureuses. Chaque rapport est élaboré dans le respect des normes en vigueur afin de soutenir efficacement votre dossier juridique."
+        },
+        "service4": { 
+            "title": "ECOBATISSEUR SARL – VOTRE EXPERT CONSEIL EN LITIGES DE CONSTRUCTION",
+            "description": "Lors d’une expertise judiciaire, la bataille se joue principalement sur le terrain technique. C’est là que l’expert d’ECOBATISSEUR SARL intervient en première ligne, en appui stratégique de votre avocat.\n\nLes échanges contradictoires, les Dires techniques envoyés par les parties adverses et les observations adressées à l’expert judiciaire exigent une maîtrise pointue du bâtiment et des normes marocaines. \nAucun avocat ne peut y répondre efficacement sans un technicien spécialisé à ses côtés. \n Chez ECOBATISSEUR SARL, nous assurons cette synergie entre rigueur technique et stratégie juridique, afin de : "
+        }
+    },
+    "experience": {
+        "title": "Notre savoir faire à votre service depuis plus de 10 ans !",
+        "items": [
+            "PLUS AVES COURRIERS ET NOTRE EXPERT SE REND À",
+            "NOMBREUX PROCÈS D'ASSISTANCE EN EXPERTISE",
+            "PLUS DE 10 ANS D'EXPERTISE TECHNIQUE ET JUDICIAIRE",
+            "ASSISTANCE DE VICTIMES SINISTRÉS À EL JADIDA",
+            "UN ACCUEIL ATTENTIF ET UN SUIVI DE PROCESSUS JUDICIAIRES"
+        ],
+        "domains": {
+            "title": "Nous intervenons pour vous dans plus de 7 domaines d'expertises, et sur l'intégralité du territoire français. Découvrez notre savoir faire et nos domaines de compétences !",
+            "expertise1": "ASSISTANCE RÉCEPTION",
+            "expertise2": "EXPERTISE PRIVÉE",
+            "expertise3": "PROTECTION JURIDIQUE",
+            "expertise4": "EXPERT FISCAL",
+            "expertise5": "EXPERTISE IMMOBILIÈRE",
+            "expertise6": "CATASTROPHE NATURELLE"
+        }
+    },
+    "footer": {
+        "title": "ECOBATISSEUR SARL - Assistance Expertise Batiment",
+        "contact": {
+            "email": "E-mail :",
+            "emailValue": "Archidesigner@hotmail.fr",
+            "address": "Siège Social",
+            "addressValue": "Centre Sidi Bouzid, El Jadida, Maroc",
+            "postalCode": "Région Doukkala-Abda",
+            "phone": "Téléphone",
+            "phoneValue": "+212 6 81 98 38 05",
+            "hours": "Horaires",
+            "hoursValue": "Lundi - Vendredi : 9h00 - 18h00"
+        },
+        "cta": {
+            "title": "Inscrivez-vous pour recevoir les dernières nouvelles et annonces !",
+            "button": "JE M'INSCRIS GRATUITEMENT"
+        },
+        "selectExpert": "Expert bâtiment dans votre ville",
+        "copyright": "Copyright @2025 | Partenaire confidentialité | Mentions légales | © ECOBATISSEUR SARL"
+    },
+    "faq": {
+        "title": "Qui choisit l'expert judiciaire ?",
+        "answer": "L'expert est désigné par le juge. Cependant, chaque partie peut – et doit – se faire accompagner par un expert-conseil privé, garant de ses droits et de sa stratégie technique.",
+        "q1": "Puis-je refuser l'expertise ?",
+        "q2": "Combien de temps dure la procédure ?",
+        "q3": "Le rapport est-il contraignant pour le juge ?"
+    }
+}

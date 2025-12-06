@@ -1,24 +1,47 @@
-import logo from './logo.svg';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
+import './animations.css';
+import './i18n';
+import Header from './components/Header';
+import Hero from './components/Hero';
+import Intro from './components/Intro';
+import Services from './components/Services';
+import Experience from './components/Experience';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import ExpertisePage from './components/pages/ExpertisePage';
+import PathologiesPage from './components/pages/PathologiesPage';
+import SinistresPage from './components/pages/SinistresPage';
+import ActualitesPage from './components/pages/ActualitesPage';
+
+function HomePage() {
+  return (
+    <>
+      <Hero />
+      <Intro />
+      <Services />
+      <Experience />
+      <Contact />
+    </>
+  );
+}
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="App">
+        <Header />
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/expertise/:expertiseType" element={<ExpertisePage />} />
+          <Route path="/dossiers/pathologies-batiment" element={<PathologiesPage />} />
+          <Route path="/dossiers/sinistres-assurances" element={<SinistresPage />} />
+          <Route path="/actualites" element={<ActualitesPage />} />
+        </Routes>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 

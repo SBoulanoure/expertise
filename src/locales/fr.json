@@ -1,0 +1,426 @@
+{
+    "header": {
+        "phone": "☎ +212 6 81 98 38 05",
+        "menu": {
+            "expertise": "Notre Cabinet",
+            "expertises": "Nos Expertises",
+            "dossiers": "Dossiers",
+            "services": "Nos Services",
+            "actualites": "Actualités",
+            "contact": "Contact"
+        },
+        "dossiers": {
+            "pathologies": "Pathologies du Bâtiment",
+            "sinistres": "Sinistres et Assurances"
+        }
+    },
+    "hero": {
+        "title": "Expert Conseil en Litiges de Construction",
+        "subtitle": "ECOBATISSEUR SARL - Architecture, Urbanisme & Territoires Durables. Notre service d'expertise judiciaire en bâtiment, basé à El Jadida, vous offre un accompagnement technique et juridique complet pour défendre vos intérêts dans tous les litiges liés à la construction dans la région Doukkala–Abda.",
+        "buttonContact": "CONTACTEZ-NOUS"
+    },
+    "intro": {
+        "title": "Votre Expert Conseil Indépendant en Litiges de Construction",
+        "description": "Bureau d'études marocain spécialisé en architecture, urbanisme et expertise bâtiment, ECOBATISSEUR SARL vous accompagne dans tous vos litiges liés à la construction avec une expertise technique de pointe et une connaissance approfondie des procédures judiciaires marocaines.",
+        "subtitle": "Notre engagement à vos côtés :",
+        "points": [
+            "Expertise technique certifiée et rapports conformes aux normes marocaines",
+            "Indépendance totale vis-à-vis des assurances et constructeurs",
+            "Maîtrise complète des procédures devant les tribunaux d'El Jadida et Casablanca-Settat",
+            "Analyse et contre-expertise des rapports adverses",
+            "Assistance lors des expertises judiciaires contradictoires"
+        ],
+        "conclusion": "Lors d'une expertise judiciaire, la bataille se joue sur le terrain technique. ECOBATISSEUR SARL intervient en appui stratégique de votre avocat pour défendre vos droits avec rigueur et professionnalisme. Nous renforçons votre position juridique avec des preuves techniques solides pour obtenir une décision favorable."
+    },
+    "services": {
+        "title": "Nos Domaines d'Expertise",
+        "service1": {
+            "title": "ASSISTANCE JUDICIAIRE SPÉCIALISÉE",
+            "description": "Accompagnement technique et juridique complet dans tous vos litiges de construction à El Jadida et la région Doukkala-Abda.\n\nNos experts indépendants interviennent sur El Jadida, Sidi Bouzid, Azemmour, Bir Jdid, Oualidia, Safi et Casablanca-Settat pour :\n\n• Évaluer avec précision les dommages et identifier les malfaçons\n• Analyser et contester les rapports adverses (assurance, promoteur, constructeur)\n• Réaliser des constats et rapports techniques détaillés conformes aux exigences des tribunaux marocains\n• Vous assister lors des expertises judiciaires devant le Tribunal de Première Instance d'El Jadida, la Cour d'Appel ou les juridictions commerciales\n\nContrairement aux experts d'assurance, nous sommes entièrement indépendants et défendons exclusivement vos intérêts."
+        },
+        "service2": {
+            "title": "ASSISTANCE EN EXPERTISE JUDICIAIRE CONTRADICTOIRE",
+            "description": "Lors d'une expertise judiciaire, l'expert désigné par le juge est réputé impartial. Il peut s'adjoindre des sapiteurs (techniciens spécialisés). Chaque partie bénéficie des droits de la défense :\n\n• Votre avocat vous défend sur le plan juridique\n• Votre expert-conseil ECOBATISSEUR vous défend sur le plan technique\n\nNous analysons les Dires techniques adverses, formulons des observations pertinentes à l'expert judiciaire, et veillons à ce que vos droits soient préservés tout au long de la procédure contradictoire."
+        },
+        "service3": {
+            "title": "RAPPORTS D'EXPERTISE TECHNIQUES DÉTAILLÉS",
+            "description": "Nos rapports d'expertise se distinguent par leur qualité, précision et conformité aux normes marocaines en vigueur.\n\nChaque rapport comprend :\n\n• Analyse technique rigoureuse des désordres constatés\n• Identification des responsabilités et causes des malfaçons\n• Évaluation chiffrée des dommages et coûts de réparation\n• Photographies, plans et schémas techniques explicatifs\n• Conclusions étayées par les normes et DTU applicables\n\nNos rapports sont élaborés pour soutenir efficacement votre dossier devant les juridictions marocaines."
+        },
+        "service4": { 
+            "title": "SYNERGIE TECHNIQUE ET JURIDIQUE POUR VOTRE DÉFENSE",
+            "description": "La bataille d'une expertise judiciaire se joue principalement sur le terrain technique. Aucun avocat ne peut y répondre efficacement sans un technicien spécialisé à ses côtés.\n\nECOBATISSEUR SARL assure cette synergie entre rigueur technique et stratégie juridique pour :\n\n• Contrer les arguments techniques de la partie adverse\n• Détecter les erreurs et approximations dans les rapports adverses\n• Orienter les opérations d'expertise en votre faveur\n• Formuler des Dires techniques percutants\n• Maximiser vos chances d'obtenir une décision favorable\n\nNotre maîtrise des normes marocaines de construction et des procédures judiciaires fait la différence."
+        }
+    },
+    "experience": {
+        "title": "Plus de 10 ans d'expérience à votre service !",
+        "button": "JE M'INFORME",
+        "items": [
+            "INTERVENTIONS SUR TOUTE LA RÉGION DOUKKALA-ABDA",
+            "NOMBREUSES ASSISTANCES EN EXPERTISE JUDICIAIRE",
+            "PLUS DE 10 ANS D'EXPERTISE TECHNIQUE ET JURIDIQUE",
+            "ACCOMPAGNEMENT DE VICTIMES DE SINISTRES À EL JADIDA",
+            "SUIVI PERSONNALISÉ DE VOS PROCÉDURES JUDICIAIRES"
+        ],
+        "domains": {
+            "title": "Nous intervenons dans 6 domaines d'expertise spécialisés sur toute la région Doukkala-Abda et au-delà. Découvrez notre savoir-faire et nos domaines de compétences !",
+            "expertise1": "ASSISTANCE RÉCEPTION DE TRAVAUX",
+            "expertise2": "EXPERTISE PRIVÉE ET CONTRE-EXPERTISE",
+            "expertise3": "PROTECTION JURIDIQUE ET CONSEIL",
+            "expertise4": "EXPERTISE FISCALE IMMOBILIÈRE",
+            "expertise5": "EXPERTISE IMMOBILIÈRE ET ÉVALUATION",
+            "expertise6": "SINISTRES ET CATASTROPHES NATURELLES"
+        }
+    },
+    "contact": {
+        "title": "Contactez-Nous",
+        "subtitle": "Besoin d'un expert indépendant pour votre litige de construction ? Contactez ECOBATISSEUR SARL dès aujourd'hui.",
+        "form": {
+            "name": "Nom complet",
+            "email": "Email",
+            "phone": "Téléphone",
+            "subject": "Objet",
+            "message": "Message",
+            "submit": "ENVOYER"
+        },
+        "info": {
+            "address": "Adresse",
+            "addressValue": "Centre Sidi Bouzid, El Jadida, Région Doukkala-Abda, Maroc",
+            "phone": "Téléphone",
+            "phoneValue": "+212 6 81 98 38 05",
+            "email": "Email",
+            "emailValue": "Archidesigner@hotmail.fr",
+            "hours": "Horaires d'ouverture",
+            "hoursValue": "Lundi - Vendredi : 9h00 - 18h00\nSamedi : Sur rendez-vous"
+        }
+    },
+    "footer": {
+        "title": "ECOBATISSEUR SARL - Expert Conseil en Construction",
+        "contact": {
+            "email": "E-mail :",
+            "emailValue": "Archidesigner@hotmail.fr",
+            "address": "Siège Social",
+            "addressValue": "Centre Sidi Bouzid, El Jadida, Maroc",
+            "postalCode": "Région Doukkala-Abda",
+            "phone": "Téléphone",
+            "phoneValue": "+212 6 81 98 38 05",
+            "hours": "Horaires",
+            "hoursValue": "Lundi - Vendredi : 9h00 - 18h00"
+        },
+        "cta": {
+            "title": "Besoin d'une expertise pour votre litige de construction ?",
+            "button": "CONTACTEZ-NOUS MAINTENANT"
+        },
+        "selectExpert": "Expert bâtiment à El Jadida",
+        "copyright": "Copyright © 2025 ECOBATISSEUR SARL | Tous droits réservés | Mentions légales"
+    },
+    "faq": {
+        "title": "Questions Fréquentes",
+        "q1": "Qui choisit l'expert judiciaire ?",
+        "a1": "L'expert judiciaire est désigné par le juge. Cependant, chaque partie peut - et doit - se faire accompagner par un expert-conseil privé indépendant comme ECOBATISSEUR SARL, garant de ses droits et de sa stratégie technique.",
+        "q2": "Pourquoi faire appel à un expert-conseil privé ?",
+        "a2": "L'expert-conseil privé défend exclusivement vos intérêts techniques durant l'expertise. Il analyse les rapports adverses, formule des observations pertinentes, et oriente les opérations en votre faveur, en synergie avec votre avocat.",
+        "q3": "Combien coûte une expertise judiciaire ?",
+        "a3": "Les honoraires de l'expert judiciaire sont fixés par le juge et répartis entre les parties. Les honoraires de votre expert-conseil ECOBATISSEUR sont convenus contractuellement selon la complexité de votre dossier.",
+        "q4": "Intervenez-vous en dehors d'El Jadida ?",
+        "a4": "Oui, nous intervenons sur toute la région Doukkala-Abda : El Jadida, Sidi Bouzid, Azemmour, Bir Jdid, Oualidia, Safi, ainsi que Casablanca-Settat et les régions avoisinantes."
+    },
+    "expertisePages": {
+        "backButton": "← Retour",
+        "servicesTitle": "Nos Services",
+        "benefitsTitle": "Vos Avantages",
+        "ctaTitle": "Besoin de cette expertise ?",
+        "ctaSubtitle": "Contactez nos experts pour une consultation personnalisée",
+        "ctaPhone": "📞 Appelez-nous",
+        "ctaContact": "✉️ Nous contacter",
+        "assistanceReception": {
+            "title": "ASSISTANCE RÉCEPTION DE TRAVAUX",
+            "description": "L'assistance à la réception de travaux est une étape cruciale pour sécuriser votre investissement immobilier à El Jadida et région Doukkala-Abda. Notre expertise technique vous accompagne lors de la réception de votre bien pour identifier et faire constater toutes les malfaçons et réserves avant la livraison définitive.",
+            "services": [
+                "Inspection complète du bien avant réception des travaux",
+                "Identification précise des malfaçons et non-conformités",
+                "Rédaction d'un rapport détaillé avec documentation photographique",
+                "Assistance technique lors de la réception avec les entreprises",
+                "Suivi rigoureux des réserves jusqu'à leur levée complète",
+                "Conseil sur les délais légaux et garanties applicables au Maroc"
+            ],
+            "benefits": [
+                "Protection maximale de vos droits et de votre investissement",
+                "Documentation professionnelle opposable juridiquement",
+                "Expertise indépendante et impartiale garantie",
+                "Gain de temps et sérénité totale lors de la réception"
+            ]
+        },
+        "expertisePrivee": {
+            "title": "EXPERTISE PRIVÉE ET CONTRE-EXPERTISE",
+            "description": "L'expertise privée vous permet d'obtenir une évaluation technique indépendante de votre bien ou de désordres constatés à El Jadida, en dehors de toute procédure judiciaire. Idéale pour anticiper un litige ou négocier avec les parties adverses en toute connaissance de cause.",
+            "services": [
+                "Diagnostic technique complet du bâtiment et des désordres",
+                "Évaluation précise des malfaçons et de leur gravité",
+                "Analyse approfondie des causes et responsabilités techniques",
+                "Chiffrage détaillé des travaux de réparation nécessaires",
+                "Rapport d'expertise technique détaillé et juridiquement opposable",
+                "Conseil stratégique sur les démarches à entreprendre"
+            ],
+            "benefits": [
+                "Anticipation efficace des litiges potentiels",
+                "Base technique solide pour toute négociation",
+                "Expertise rapide sans procédure judiciaire longue",
+                "Coût maîtrisé et honoraires transparents"
+            ]
+        },
+        "protectionJuridique": {
+            "title": "PROTECTION JURIDIQUE ET CONSEIL TECHNIQUE",
+            "description": "Notre service de protection juridique vous accompagne dans la défense de vos droits en cas de litige lié à la construction à El Jadida et région Doukkala-Abda. Nous travaillons en étroite collaboration avec votre avocat pour renforcer votre position technique et juridique devant les tribunaux marocains.",
+            "services": [
+                "Analyse juridique et technique complète de votre situation",
+                "Assistance technique experte aux côtés de votre avocat",
+                "Rédaction de Dires techniques argumentés et percutants",
+                "Contestation méthodique des rapports et expertises adverses",
+                "Participation active aux expertises amiables ou judiciaires",
+                "Suivi personnalisé du dossier jusqu'à sa résolution finale"
+            ],
+            "benefits": [
+                "Synergie optimale entre expertise technique et défense juridique",
+                "Renforcement significatif de votre position dans le litige",
+                "Réponse technique argumentée aux parties adverses",
+                "Accompagnement personnalisé et présence à vos côtés"
+            ]
+        },
+        "expertFiscal": {
+            "title": "EXPERTISE FISCALE IMMOBILIÈRE",
+            "description": "Notre expertise fiscale immobilière vous aide à optimiser la valeur de vos biens à El Jadida dans le cadre de déclarations fiscales, successions, donations ou transactions. Nous fournissons des évaluations rigoureuses conformes aux normes fiscales marocaines en vigueur.",
+            "services": [
+                "Évaluation fiscale précise de biens immobiliers",
+                "Expertise spécialisée pour successions et donations",
+                "Évaluation pour déclarations fiscales et ISF",
+                "Analyse détaillée de la valeur locative",
+                "Rapports conformes aux exigences de l'administration fiscale",
+                "Conseil en optimisation patrimoniale et fiscale"
+            ],
+            "benefits": [
+                "Évaluations conformes à la législation marocaine",
+                "Optimisation légale de votre situation fiscale",
+                "Rapports acceptés par l'administration fiscale",
+                "Expertise reconnue et certifiée au Maroc"
+            ]
+        },
+        "expertiseImmobiliere": {
+            "title": "EXPERTISE IMMOBILIÈRE ET ÉVALUATION",
+            "description": "Notre expertise immobilière vous fournit une évaluation précise et objective de la valeur de votre bien à El Jadida et région Doukkala-Abda. Que ce soit pour un achat, une vente, un financement bancaire ou une estimation patrimoniale, nous vous délivrons un rapport détaillé et argumenté.",
+            "services": [
+                "Estimation précise de la valeur vénale du bien",
+                "Analyse comparative approfondie du marché local d'El Jadida",
+                "Évaluation technique de l'état général et des travaux",
+                "Estimation pour achat, vente ou financement bancaire",
+                "Rapport d'expertise détaillé avec documentation photographique",
+                "Conseil sur le positionnement prix et la stratégie de vente"
+            ],
+            "benefits": [
+                "Évaluation objective et totalement indépendante",
+                "Connaissance approfondie du marché immobilier local",
+                "Rapport professionnel juridiquement opposable",
+                "Aide précieuse à la décision d'achat ou de vente"
+            ]
+        },
+        "catastropheNaturelle": {
+            "title": "SINISTRES ET CATASTROPHES NATURELLES",
+            "description": "En cas de sinistre lié à une catastrophe naturelle à El Jadida (inondation, séisme, tempête), notre expertise vous aide à faire valoir vos droits auprès de votre compagnie d'assurance et à obtenir une indemnisation juste et complète des dommages subis dans la région Doukkala-Abda.",
+            "services": [
+                "Constat technique immédiat des dommages post-sinistre",
+                "Documentation photographique complète et détaillée",
+                "Évaluation précise du coût de remise en état",
+                "Contestation argumentée des rapports d'assurance insuffisants",
+                "Assistance lors des expertises contradictoires avec l'assureur",
+                "Suivi du dossier jusqu'à l'indemnisation complète et juste"
+            ],
+            "benefits": [
+                "Réactivité maximale et disponibilité en urgence",
+                "Défense acharnée de vos intérêts face aux assureurs",
+                "Maximisation de votre indemnisation légitime",
+                "Accompagnement humain et professionnel dans l'épreuve"
+            ]
+        }
+    },
+    "dossiers": {
+        "pathologies": {
+            "title": "Pathologies du Bâtiment",
+            "subtitle": "Identification, diagnostic et expertise des désordres affectant les constructions",
+            "intro": "Les pathologies du bâtiment regroupent l'ensemble des désordres, anomalies et défauts de construction pouvant affecter la solidité, la sécurité, l'étanchéité ou le confort d'un ouvrage. Notre expertise technique permet d'identifier précisément les causes, d'évaluer leur gravité et de proposer les solutions de réparation adaptées.",
+            "categories": {
+                "structurelles": "Pathologies Structurelles",
+                "structurellesItems": [
+                    "Fissures structurelles traversantes ou évolutives",
+                    "Tassements différentiels des fondations",
+                    "Affaissement de planchers et défauts de portance",
+                    "Désordres des éléments porteurs (poteaux, poutres, murs)",
+                    "Problèmes de contreventement et stabilité d'ensemble",
+                    "Corrosion des armatures et éclatement du béton"
+                ],
+                "humidite": "Pathologies d'Humidité et d'Étanchéité",
+                "humiditeItems": [
+                    "Infiltrations d'eau de toiture et terrasses",
+                    "Remontées capillaires dans les murs",
+                    "Défauts d'étanchéité des façades et joints",
+                    "Condensation, moisissures et dégradations liées",
+                    "Fuites des réseaux et canalisations encastrées",
+                    "Problèmes de drainage et d'imperméabilisation"
+                ],
+                "revetements": "Pathologies des Revêtements et Finitions",
+                "revetementsItems": [
+                    "Décollements de carrelages et revêtements muraux",
+                    "Fissuration des enduits et peintures",
+                    "Problèmes de mise en œuvre des menuiseries",
+                    "Défauts d'isolation thermique et phonique",
+                    "Désordres des chapes et sols",
+                    "Problèmes d'étanchéité des menuiseries extérieures"
+                ],
+                "thermique": "Pathologies Thermiques et Énergétiques",
+                "thermiqueItems": [
+                    "Ponts thermiques et déperditions énergétiques",
+                    "Défauts d'isolation des parois",
+                    "Problèmes de ventilation et de renouvellement d'air",
+                    "Condensation et humidité liées aux défauts thermiques",
+                    "Surchauffe estivale et inconfort thermique",
+                    "Non-conformité aux normes énergétiques marocaines"
+                ]
+            },
+            "approachTitle": "Notre Démarche d'Expertise",
+            "approachSteps": [
+                {
+                    "title": "Inspection Technique Approfondie",
+                    "description": "Visite détaillée du bâtiment avec relevés précis, mesures et documentation photographique exhaustive des désordres constatés."
+                },
+                {
+                    "title": "Diagnostic des Causes",
+                    "description": "Analyse technique rigoureuse pour identifier l'origine exacte des pathologies : erreur de conception, défaut de mise en œuvre, matériaux inadaptés, etc."
+                },
+                {
+                    "title": "Évaluation de la Gravité",
+                    "description": "Classification des désordres selon leur impact sur la solidité, la sécurité et la pérennité de l'ouvrage conformément aux normes marocaines."
+                },
+                {
+                    "title": "Préconisations de Réparation",
+                    "description": "Propositions techniques détaillées des travaux de reprise nécessaires avec estimation des coûts et planning d'intervention."
+                },
+                {
+                    "title": "Rapport d'Expertise Complet",
+                    "description": "Document technique et juridique opposable détaillant constats, analyses, conclusions et responsabilités établies."
+                }
+            ],
+            "ctaTitle": "Une Pathologie Identifiée sur Votre Bâtiment ?",
+            "ctaText": "Faites appel à notre expertise technique pour un diagnostic précis et des solutions adaptées. Intervention rapide à El Jadida et région Doukkala-Abda.",
+            "ctaButton": "DEMANDER UNE EXPERTISE"
+        },
+        "sinistres": {
+            "title": "Sinistres et Assurances",
+            "subtitle": "Expertise et défense de vos intérêts face aux compagnies d'assurance",
+            "intro": "En cas de sinistre affectant votre bien immobilier, l'intervention d'un expert indépendant est essentielle pour défendre vos droits face à votre compagnie d'assurance. Nous vous accompagnons dans toutes les étapes du processus d'indemnisation pour obtenir une réparation juste et intégrale des dommages subis.",
+            "types": {
+                "degatsEaux": "Dégâts des Eaux",
+                "degatsEauxDesc": "Fuites, ruptures de canalisations, infiltrations : nous établissons un constat précis des dommages, identifions les causes et estimons le coût complet de remise en état.",
+                "incendie": "Incendie et Explosions",
+                "incendieDesc": "Expertise post-incendie complète : évaluation des dommages structurels et mobiliers, chiffrage des travaux de reconstruction et de réhabilitation.",
+                "catastrophesNaturelles": "Catastrophes Naturelles",
+                "catastrophesNaturellesDesc": "Inondations, séismes, tempêtes : constat immédiat des dégâts, documentation complète et assistance pour l'obtention de l'indemnisation maximale.",
+                "vices": "Vices de Construction",
+                "vicesDesc": "Malfaçons et défauts de construction : expertise technique pour établir les responsabilités et obtenir réparation auprès des constructeurs et assurances décennales.",
+                "effondrement": "Effondrement et Dommages Structurels",
+                "effondrementDesc": "Sinistres graves affectant la solidité du bâtiment : analyse structurelle, évaluation des risques et définition des mesures d'urgence nécessaires."
+            },
+            "processTitle": "Le Processus de Gestion de Sinistre",
+            "processSteps": [
+                {
+                    "title": "Déclaration du Sinistre",
+                    "description": "Contactez immédiatement votre assureur et faites appel à notre expertise indépendante pour protéger vos intérêts dès le départ."
+                },
+                {
+                    "title": "Expertise Contradictoire",
+                    "description": "L'expert de l'assurance et notre expert se réunissent pour constater les dommages. Nous veillons à ce que tous les préjudices soient correctement identifiés et chiffrés."
+                },
+                {
+                    "title": "Rapport d'Expertise",
+                    "description": "Rédaction d'un rapport technique détaillé avec photos, mesures et estimation précise du coût de remise en état conforme aux normes."
+                },
+                {
+                    "title": "Négociation de l'Indemnisation",
+                    "description": "Nous défendons votre dossier auprès de l'assureur pour obtenir une indemnisation juste tenant compte de tous les préjudices directs et indirects."
+                },
+                {
+                    "title": "Suivi des Travaux",
+                    "description": "Assistance technique durant la phase de réparation pour garantir la conformité des travaux réalisés et la bonne utilisation des fonds d'indemnisation."
+                }
+            ],
+            "roleTitle": "Notre Rôle d'Expert Indépendant",
+            "rolePoints": [
+                "Évaluation exhaustive et objective de l'ensemble des dommages matériels et préjudices subis",
+                "Contre-expertise systématique des rapports établis par l'expert mandaté par votre compagnie d'assurance",
+                "Défense technique de vos intérêts lors des expertises contradictoires sur site",
+                "Maximisation légitime de votre indemnisation en incluant tous les postes de préjudice",
+                "Accompagnement complet jusqu'à règlement définitif du sinistre et réception des travaux",
+                "Assistance en cas de refus d'indemnisation ou de sous-évaluation manifeste des dommages"
+            ],
+            "ctaTitle": "Victime d'un Sinistre ?",
+            "ctaText": "Ne restez pas seul face à votre assurance. Notre expertise indépendante garantit vos droits et optimise votre indemnisation. Intervention rapide partout dans la région.",
+            "ctaButton": "CONTACTEZ UN EXPERT"
+        }
+    },
+    "actualites": {
+        "title": "Actualités & Veille Juridique",
+        "subtitle": "Informations, réglementations et jurisprudences en matière de construction et d'expertise",
+        "articles": [
+            {
+                "date": "Décembre 2025",
+                "category": "legislation",
+                "categoryLabel": "Législation",
+                "title": "Nouvelle Réglementation Thermique des Bâtiments au Maroc",
+                "excerpt": "Le Ministère de l'Énergie et de la Transition Énergétique vient de publier les nouvelles normes d'efficacité énergétique applicables aux constructions neuves, renforçant significativement les exigences d'isolation thermique.",
+                "contentTitle": "Points Clés de la Nouvelle Réglementation",
+                "points": [
+                    "Obligation d'isolation thermique renforcée pour toutes les constructions neuves à partir de janvier 2026",
+                    "Nouveaux coefficients de transmission thermique (U) plus exigeants pour les parois extérieures",
+                    "Mise en place obligatoire d'une étude thermique avant dépôt du permis de construire",
+                    "Sanctions administratives en cas de non-conformité constatée lors du contrôle final",
+                    "Prime à l'efficacité énergétique pour les projets dépassant les exigences minimales"
+                ],
+                "conclusion": "Cette réglementation s'inscrit dans la stratégie nationale d'efficacité énergétique et aura un impact majeur sur les pratiques de construction dans la région Casablanca-Settat."
+            },
+            {
+                "date": "Novembre 2025",
+                "category": "construction",
+                "categoryLabel": "Construction",
+                "title": "Prévention des Fissures : Bonnes Pratiques de Construction",
+                "excerpt": "À la suite de plusieurs sinistres constatés dans la région d'El Jadida, focus sur les bonnes pratiques techniques pour prévenir l'apparition de fissures structurelles dans les constructions neuves.",
+                "contentTitle": "Recommandations Techniques Essentielles",
+                "points": [
+                    "Étude de sol géotechnique obligatoire avant tout projet de fondations",
+                    "Respect scrupuleux des dosages béton et des délais de séchage conformes au DTU",
+                    "Mise en œuvre de joints de dilatation adaptés selon les dimensions de l'ouvrage",
+                    "Ferraillage conforme aux calculs de structure et contrôle qualité systématique",
+                    "Protection efficace contre les infiltrations d'eau durant et après la construction",
+                    "Suivi et entretien régulier des ouvrages pendant la période de garantie décennale"
+                ],
+                "conclusion": "La prévention des pathologies commence dès la phase de conception. L'intervention d'un bureau d'études compétent et un suivi technique rigoureux sont indispensables."
+            },
+            {
+                "date": "Octobre 2025",
+                "category": "assurance",
+                "categoryLabel": "Assurances",
+                "title": "Jurisprudence : Extension de la Garantie Décennale",
+                "excerpt": "La Cour de Cassation vient de confirmer une décision importante concernant l'étendue de la garantie décennale en matière de construction, élargissant la protection des maîtres d'ouvrage.",
+                "contentTitle": "Implications Pratiques de cet Arrêt",
+                "points": [
+                    "Extension de la garantie décennale aux éléments d'équipement indissociables de l'ouvrage",
+                    "Présomption de responsabilité renforcée pour les constructeurs en cas de vice de construction",
+                    "Obligation de résultat concernant la solidité de l'ouvrage et non simple obligation de moyens",
+                    "Point de départ du délai décennal reporté à la découverte effective du vice caché",
+                    "Solidarité de tous les constructeurs pour la réparation intégrale des dommages",
+                    "Impossibilité pour les assureurs décennaux de s'exonérer par des clauses restrictives"
+                ],
+                "conclusion": "Cette jurisprudence renforce considérablement la protection juridique des maîtres d'ouvrage et facilite l'obtention de réparation en cas de désordres graves."
+            }
+        ],
+        "newsletterTitle": "Restez Informé des Actualités du Secteur",
+        "newsletterText": "Recevez notre veille juridique et technique mensuelle pour être informé des évolutions réglementaires, jurisprudences importantes et bonnes pratiques en matière de construction et d'expertise.",
+        "newsletterButton": "S'ABONNER À LA NEWSLETTER"
+    }
+}
