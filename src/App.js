@@ -10,6 +10,8 @@ import Services from './components/Services';
 import Experience from './components/Experience';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import ScrollProgress from './components/ScrollProgress';
+import ScrollToTop from './components/ScrollToTop';
 import ExpertisePage from './components/pages/ExpertisePage';
 import PathologiesPage from './components/pages/PathologiesPage';
 import SinistresPage from './components/pages/SinistresPage';
@@ -31,6 +33,7 @@ function App() {
   return (
     <Router>
       <div className="App">
+        <ScrollProgress />
         <Header />
         <Routes>
           <Route path="/" element={<HomePage />} />
@@ -40,6 +43,7 @@ function App() {
           <Route path="/actualites" element={<ActualitesPage />} />
         </Routes>
         <Footer />
+        <ScrollToTop />
       </div>
     </Router>
   );

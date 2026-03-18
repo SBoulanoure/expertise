@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrophy, faSearchPlus, faBalanceScale, faHandshake } from '@fortawesome/free-solid-svg-icons';
@@ -28,38 +28,14 @@ function Intro() {
     }
   ];
 
-  const stats = [
+  const stats = useMemo(() => [
     { number: 25, suffix: '+', label: 'Années d\'Expérience', duration: 2000 },
     { number: 500, suffix: '+', label: 'Projets Réalisés', duration: 2500 },
     { number: 100, suffix: '%', label: 'Satisfaction Client', duration: 2000 },
     { number: 24, suffix: '/7', label: 'Disponibilité', duration: 1500 }
-  ];
+  ], []);
 
-  useEffect(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting && !hasAnimated) {
-            setHasAnimated(true);
-            animateCounters();
-          }
-        });
-      },
-      { threshold: 0.5 }
-    );
-
-    if (statsRef.current) {
-      observer.observe(statsRef.current);
-    }
-
-    return () => {
-      if (statsRef.current) {
-        observer.unobserve(statsRef.current);
-      }
-    };
-  }, [hasAnimated]);
-
-  const animateCounters = () => {
+  const animateCounters = useCallback(() => {
     stats.forEach((stat, index) => {
       const increment = stat.number / (stat.duration / 16); // 60fps
       let current = 0;
@@ -82,7 +58,33 @@ function Intro() {
         }
       }, 16);
     });
-  };
+  }, [stats]);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting && !hasAnimated) {
+            setHasAnimated(true);
+            animateCounters();
+          }
+        });
+      },
+      { threshold: 0.3 }
+    );
+
+    const statsElement = statsRef.current;
+
+    if (statsElement) {
+      observer.observe(statsElement);
+    }
+
+    return () => {
+      if (statsElement) {
+        observer.unobserve(statsElement);
+      }
+    };
+  }, [hasAnimated, animateCounters]);
 
   return (
     <section className="intro" id="expertise">

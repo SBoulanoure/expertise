@@ -2,13 +2,14 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCheckCircle, faSearchPlus, faBalanceScale, faMoneyBillWave, faHome, faExclamationTriangle, faHammer, faShieldAlt } from '@fortawesome/free-solid-svg-icons';
+import { faCheckCircle, faSearchPlus, faBalanceScale, faMoneyBillWave, faHome, faExclamationTriangle, faHammer, faShieldAlt, faBars, faTimes } from '@fortawesome/free-solid-svg-icons';
 import './Header.css';
 
 function Header() {
   const { t, i18n } = useTranslation();
   const [expertiseDropdownOpen, setExpertiseDropdownOpen] = useState(false);
   const [dossiersDropdownOpen, setDossiersDropdownOpen] = useState(false);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const expertiseDropdownRef = useRef(null);
   const dossiersDropdownRef = useRef(null);
 
@@ -49,6 +50,12 @@ function Header() {
     { titleKey: 'header.dossiers.sinistres', path: '/dossiers/sinistres-assurances', icon: faShieldAlt }
   ];
 
+  const closeMobileMenu = () => {
+    setMobileMenuOpen(false);
+    setExpertiseDropdownOpen(false);
+    setDossiersDropdownOpen(false);
+  };
+
   return (
     <header className="header">
       <div className="header-top">
@@ -73,15 +80,25 @@ function Header() {
       <nav className="header-nav">
         <div className="container">
           <Link to="/" className="logo">
-            <img src={require('../Logo.png')} alt="ECOBATISSEUR" />
+            <img src={require('../Logo.png')} alt="Moriningeneri" />
           </Link>
-          <ul className="nav-menu">
+          
+          <button 
+            className="mobile-menu-toggle"
+            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+            aria-label="Toggle menu"
+          >
+            <FontAwesomeIcon icon={mobileMenuOpen ? faTimes : faBars} />
+          </button>
+
+          <ul className={`nav-menu ${mobileMenuOpen ? 'active' : ''}`}>
             <li>
               <Link to="/#expertise" onClick={(e) => {
                 if (window.location.pathname === '/') {
                   e.preventDefault();
                   document.getElementById('expertise')?.scrollIntoView({ behavior: 'smooth' });
                 }
+                closeMobileMenu();
               }}>
                 {t('header.menu.expertise')}
               </Link>
@@ -106,7 +123,10 @@ function Header() {
                     <li key={index}>
                       <Link 
                         to={expertise.path}
-                        onClick={() => setExpertiseDropdownOpen(false)}
+                        onClick={() => {
+                          setExpertiseDropdownOpen(false);
+                          closeMobileMenu();
+                        }}
                       >
                         <span className="dropdown-icon">
                           <FontAwesomeIcon icon={expertise.icon} />
@@ -138,7 +158,10 @@ function Header() {
                     <li key={index}>
                       <Link 
                         to={dossier.path}
-                        onClick={() => setDossiersDropdownOpen(false)}
+                        onClick={() => {
+                          setDossiersDropdownOpen(false);
+                          closeMobileMenu();
+                        }}
                       >
                         <span className="dropdown-icon">
                           <FontAwesomeIcon icon={dossier.icon} />
@@ -156,12 +179,13 @@ function Header() {
                   e.preventDefault();
                   document.getElementById('services')?.scrollIntoView({ behavior: 'smooth' });
                 }
+                closeMobileMenu();
               }}>
                 {t('header.menu.services')}
               </Link>
             </li>
             <li>
-              <Link to="/actualites">
+              <Link to="/actualites" onClick={closeMobileMenu}>
                 {t('header.menu.actualites')}
               </Link>
             </li>
@@ -171,6 +195,7 @@ function Header() {
                   e.preventDefault();
                   document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
                 }
+                closeMobileMenu();
               }}>
                 {t('header.menu.contact')}
               </Link>

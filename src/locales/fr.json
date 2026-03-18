@@ -16,12 +16,12 @@
     },
     "hero": {
         "title": "Expert Conseil en Litiges de Construction",
-        "subtitle": "ECOBATISSEUR SARL - Architecture, Urbanisme & Territoires Durables. Notre service d'expertise judiciaire en bâtiment, basé à El Jadida, vous offre un accompagnement technique et juridique complet pour défendre vos intérêts dans tous les litiges liés à la construction dans la région Doukkala–Abda.",
+        "subtitle": "Moriningeneri  - Architecture, Urbanisme & Territoires Durables. Notre service d'expertise judiciaire en bâtiment, basé à El Jadida, vous offre un accompagnement technique et juridique complet pour défendre vos intérêts dans tous les litiges liés à la construction dans la région Doukkala–Abda.",
         "buttonContact": "CONTACTEZ-NOUS"
     },
     "intro": {
         "title": "Votre Expert Conseil Indépendant en Litiges de Construction",
-        "description": "Bureau d'études marocain spécialisé en architecture, urbanisme et expertise bâtiment, ECOBATISSEUR SARL vous accompagne dans tous vos litiges liés à la construction avec une expertise technique de pointe et une connaissance approfondie des procédures judiciaires marocaines.",
+        "description": "Bureau d'études marocain spécialisé en architecture, urbanisme et expertise bâtiment, Moriningeneri  vous accompagne dans tous vos litiges liés à la construction avec une expertise technique de pointe et une connaissance approfondie des procédures judiciaires marocaines.",
         "subtitle": "Notre engagement à vos côtés :",
         "points": [
             "Expertise technique certifiée et rapports conformes aux normes marocaines",
@@ -30,7 +30,7 @@
             "Analyse et contre-expertise des rapports adverses",
             "Assistance lors des expertises judiciaires contradictoires"
         ],
-        "conclusion": "Lors d'une expertise judiciaire, la bataille se joue sur le terrain technique. ECOBATISSEUR SARL intervient en appui stratégique de votre avocat pour défendre vos droits avec rigueur et professionnalisme. Nous renforçons votre position juridique avec des preuves techniques solides pour obtenir une décision favorable."
+        "conclusion": "Lors d'une expertise judiciaire, la bataille se joue sur le terrain technique. Moriningeneri  intervient en appui stratégique de votre avocat pour défendre vos droits avec rigueur et professionnalisme. Nous renforçons votre position juridique avec des preuves techniques solides pour obtenir une décision favorable."
     },
     "services": {
         "title": "Nos Domaines d'Expertise",
@@ -40,7 +40,7 @@
         },
         "service2": {
             "title": "ASSISTANCE EN EXPERTISE JUDICIAIRE CONTRADICTOIRE",
-            "description": "Lors d'une expertise judiciaire, l'expert désigné par le juge est réputé impartial. Il peut s'adjoindre des sapiteurs (techniciens spécialisés). Chaque partie bénéficie des droits de la défense :\n\n• Votre avocat vous défend sur le plan juridique\n• Votre expert-conseil ECOBATISSEUR vous défend sur le plan technique\n\nNous analysons les Dires techniques adverses, formulons des observations pertinentes à l'expert judiciaire, et veillons à ce que vos droits soient préservés tout au long de la procédure contradictoire."
+            "description": "Lors d'une expertise judiciaire, l'expert désigné par le juge est réputé impartial. Il peut s'adjoindre des sapiteurs (techniciens spécialisés). Chaque partie bénéficie des droits de la défense :\n\n• Votre avocat vous défend sur le plan juridique\n• Votre expert-conseil Moriningeneri vous défend sur le plan technique\n\nNous analysons les Dires techniques adverses, formulons des observations pertinentes à l'expert judiciaire, et veillons à ce que vos droits soient préservés tout au long de la procédure contradictoire."
         },
         "service3": {
             "title": "RAPPORTS D'EXPERTISE TECHNIQUES DÉTAILLÉS",
@@ -48,16 +48,16 @@
         },
         "service4": { 
             "title": "SYNERGIE TECHNIQUE ET JURIDIQUE POUR VOTRE DÉFENSE",
-            "description": "La bataille d'une expertise judiciaire se joue principalement sur le terrain technique. Aucun avocat ne peut y répondre efficacement sans un technicien spécialisé à ses côtés.\n\nECOBATISSEUR SARL assure cette synergie entre rigueur technique et stratégie juridique pour :\n\n• Contrer les arguments techniques de la partie adverse\n• Détecter les erreurs et approximations dans les rapports adverses\n• Orienter les opérations d'expertise en votre faveur\n• Formuler des Dires techniques percutants\n• Maximiser vos chances d'obtenir une décision favorable\n\nNotre maîtrise des normes marocaines de construction et des procédures judiciaires fait la différence."
+            "description": "La bataille d'une expertise judiciaire se joue principalement sur le terrain technique. Aucun avocat ne peut y répondre efficacement sans un technicien spécialisé à ses côtés.\n\nMoriningeneri  assure cette synergie entre rigueur technique et stratégie juridique pour :\n\n• Contrer les arguments techniques de la partie adverse\n• Détecter les erreurs et approximations dans les rapports adverses\n• Orienter les opérations d'expertise en votre faveur\n• Formuler des Dires techniques percutants\n• Maximiser vos chances d'obtenir une décision favorable\n\nNotre maîtrise des normes marocaines de construction et des procédures judiciaires fait la différence."
         }
     },
     "experience": {
-        "title": "Plus de 10 ans d'expérience à votre service !",
+        "title": "Plus de 25 ans d'expérience à votre service !",
         "button": "JE M'INFORME",
         "items": [
             "INTERVENTIONS SUR TOUTE LA RÉGION DOUKKALA-ABDA",
             "NOMBREUSES ASSISTANCES EN EXPERTISE JUDICIAIRE",
-            "PLUS DE 10 ANS D'EXPERTISE TECHNIQUE ET JURIDIQUE",
+            "PLUS DE 25 ANS D'EXPERTISE TECHNIQUE ET JURIDIQUE",
             "ACCOMPAGNEMENT DE VICTIMES DE SINISTRES À EL JADIDA",
             "SUIVI PERSONNALISÉ DE VOS PROCÉDURES JUDICIAIRES"
         ],
@@ -73,7 +73,7 @@
     },
     "contact": {
         "title": "Contactez-Nous",
-        "subtitle": "Besoin d'un expert indépendant pour votre litige de construction ? Contactez ECOBATISSEUR SARL dès aujourd'hui.",
+        "subtitle": "Besoin d'un expert indépendant pour votre litige de construction ? Contactez Moriningeneri  dès aujourd'hui.",
         "form": {
             "name": "Nom complet",
             "email": "Email",
@@ -94,7 +94,7 @@
         }
     },
     "footer": {
-        "title": "ECOBATISSEUR SARL - Expert Conseil en Construction",
+        "title": "Moriningeneri  - Expert Conseil en Construction",
         "contact": {
             "email": "E-mail :",
             "emailValue": "Archidesigner@hotmail.fr",
@@ -111,21 +111,21 @@
             "button": "CONTACTEZ-NOUS MAINTENANT"
         },
         "selectExpert": "Expert bâtiment à El Jadida",
-        "copyright": "Copyright © 2025 ECOBATISSEUR SARL | Tous droits réservés | Mentions légales"
+        "copyright": "Copyright © 2025 Moriningeneri  | Tous droits réservés | Mentions légales"
     },
     "faq": {
         "title": "Questions Fréquentes",
         "q1": "Qui choisit l'expert judiciaire ?",
-        "a1": "L'expert judiciaire est désigné par le juge. Cependant, chaque partie peut - et doit - se faire accompagner par un expert-conseil privé indépendant comme ECOBATISSEUR SARL, garant de ses droits et de sa stratégie technique.",
+        "a1": "L'expert judiciaire est désigné par le juge. Cependant, chaque partie peut - et doit - se faire accompagner par un expert-conseil privé indépendant comme Moriningeneri , garant de ses droits et de sa stratégie technique.",
         "q2": "Pourquoi faire appel à un expert-conseil privé ?",
         "a2": "L'expert-conseil privé défend exclusivement vos intérêts techniques durant l'expertise. Il analyse les rapports adverses, formule des observations pertinentes, et oriente les opérations en votre faveur, en synergie avec votre avocat.",
         "q3": "Combien coûte une expertise judiciaire ?",
-        "a3": "Les honoraires de l'expert judiciaire sont fixés par le juge et répartis entre les parties. Les honoraires de votre expert-conseil ECOBATISSEUR sont convenus contractuellement selon la complexité de votre dossier.",
+        "a3": "Les honoraires de l'expert judiciaire sont fixés par le juge et répartis entre les parties. Les honoraires de votre expert-conseil Moriningeneri sont convenus contractuellement selon la complexité de votre dossier.",
         "q4": "Intervenez-vous en dehors d'El Jadida ?",
         "a4": "Oui, nous intervenons sur toute la région Doukkala-Abda : El Jadida, Sidi Bouzid, Azemmour, Bir Jdid, Oualidia, Safi, ainsi que Casablanca-Settat et les régions avoisinantes."
     },
     "expertisePages": {
-        "backButton": "← Retour",
+        "backButton": "Retour",
         "servicesTitle": "Nos Services",
         "benefitsTitle": "Vos Avantages",
         "ctaTitle": "Besoin de cette expertise ?",
@@ -245,122 +245,114 @@
         "pathologies": {
             "title": "Pathologies du Bâtiment",
             "subtitle": "Identification, diagnostic et expertise des désordres affectant les constructions",
-            "intro": "Les pathologies du bâtiment regroupent l'ensemble des désordres, anomalies et défauts de construction pouvant affecter la solidité, la sécurité, l'étanchéité ou le confort d'un ouvrage. Notre expertise technique permet d'identifier précisément les causes, d'évaluer leur gravité et de proposer les solutions de réparation adaptées.",
+            "intro": "Qu'est-ce qu'une pathologie du bâtiment ?\n\nUne pathologie du bâtiment désigne toute anomalie, dégradation ou dysfonctionnement affectant un élément de construction. Ces désordres peuvent apparaître :\n\n• Dès la construction : malfaçon, défaut de conception, non-conformité aux normes.\n• Au cours de la vie de l'ouvrage : vieillissement prématuré, défaut d'entretien.\n• Suite à un sinistre : infiltration, incendie, mouvement de sol, catastrophe naturelle, etc.\n\nDans le cadre d'une mission d'expertise, l'objectif est d'identifier précisément la nature du désordre, d'en déterminer les causes techniques et d'en mesurer les conséquences, afin d'orienter les mesures correctives appropriées.",
             "categories": {
-                "structurelles": "Pathologies Structurelles",
+                "structurelles": "1. Les Fissures",
                 "structurellesItems": [
-                    "Fissures structurelles traversantes ou évolutives",
-                    "Tassements différentiels des fondations",
-                    "Affaissement de planchers et défauts de portance",
-                    "Désordres des éléments porteurs (poteaux, poutres, murs)",
-                    "Problèmes de contreventement et stabilité d'ensemble",
-                    "Corrosion des armatures et éclatement du béton"
+                    "Les fissures constituent l'un des désordres les plus courants. Elles peuvent affecter les murs porteurs et façades, les planchers et dalles, les fondations.",
+                    "Causes fréquemment rencontrées : retrait-gonflement des argiles (sécheresse), tassements différentiels, défauts de conception ou d'exécution.",
+                    "Variations thermiques, surcharge ou modification des structures.",
+                    "Un diagnostic précis permet d'identifier les mécanismes et critères de gravité des fissurations."
                 ],
-                "humidite": "Pathologies d'Humidité et d'Étanchéité",
+                "humidite": "2. L'Humidité et les Infiltrations",
                 "humiditeItems": [
-                    "Infiltrations d'eau de toiture et terrasses",
-                    "Remontées capillaires dans les murs",
-                    "Défauts d'étanchéité des façades et joints",
-                    "Condensation, moisissures et dégradations liées",
-                    "Fuites des réseaux et canalisations encastrées",
-                    "Problèmes de drainage et d'imperméabilisation"
+                    "Les pathologies liées à l'humidité sont parmi les plus destructrices : infiltrations en toiture, façades ou menuiseries.",
+                    "Remontées capillaires dans les murs et condensation intérieure liée aux ponts thermiques ou ventilation insuffisante.",
+                    "Conséquences possibles : altération des matériaux, dépôts de moisissures, développement de champignons lignivores (mérule).",
+                    "Protocoles d'investigation spécifiques pour identifier l'origine des humidités."
                 ],
-                "revetements": "Pathologies des Revêtements et Finitions",
+                "revetements": "3. Les Malfaçons de Construction",
                 "revetementsItems": [
-                    "Décollements de carrelages et revêtements muraux",
-                    "Fissuration des enduits et peintures",
-                    "Problèmes de mise en œuvre des menuiseries",
-                    "Défauts d'isolation thermique et phonique",
-                    "Désordres des chapes et sols",
-                    "Problèmes d'étanchéité des menuiseries extérieures"
+                    "Les malfaçons résultent d'une exécution non conforme aux normes (DTU, Eurocodes, règles professionnelles).",
+                    "Elles peuvent concerner l'étanchéité, l'isolation thermique et acoustique, les menuiseries, les revêtements.",
+                    "Les installations techniques : électricité, plomberie, chauffage.",
+                    "Analyse complète pour identifier les non-conformités et responsabilités."
                 ],
-                "thermique": "Pathologies Thermiques et Énergétiques",
+                "thermique": "4. Désordres de Fondations & Toiture",
                 "thermiqueItems": [
-                    "Ponts thermiques et déperditions énergétiques",
-                    "Défauts d'isolation des parois",
-                    "Problèmes de ventilation et de renouvellement d'air",
-                    "Condensation et humidité liées aux défauts thermiques",
-                    "Surchauffe estivale et inconfort thermique",
-                    "Non-conformité aux normes énergétiques marocaines"
+                    "Fondations sous-dimensionnées ou mal exécutées : tassements différentiels, fissures structurelles, désordres généralisés.",
+                    "Pathologies de toiture : défauts d'étanchéité, tuiles ou éléments de couverture cassés ou déplacés.",
+                    "Solins défectueux, isolation thermique insuffisante ou dégradée.",
+                    "Sinistres liés aux catastrophes naturelles : sécheresse, inondations, vents forts, glissements de terrain."
                 ]
             },
-            "approachTitle": "Notre Démarche d'Expertise",
+            "approachTitle": "Déroulement d'une Expertise en Pathologie du Bâtiment",
             "approachSteps": [
                 {
-                    "title": "Inspection Technique Approfondie",
-                    "description": "Visite détaillée du bâtiment avec relevés précis, mesures et documentation photographique exhaustive des désordres constatés."
+                    "title": "Visite sur Site",
+                    "description": "Constatations, mesures, relevés et photographies exhaustives des désordres constatés."
                 },
                 {
-                    "title": "Diagnostic des Causes",
-                    "description": "Analyse technique rigoureuse pour identifier l'origine exacte des pathologies : erreur de conception, défaut de mise en œuvre, matériaux inadaptés, etc."
+                    "title": "Analyse Technique",
+                    "description": "Comparaison avec les normes et documents techniques applicables (DTU, Eurocodes, règles professionnelles)."
                 },
                 {
-                    "title": "Évaluation de la Gravité",
-                    "description": "Classification des désordres selon leur impact sur la solidité, la sécurité et la pérennité de l'ouvrage conformément aux normes marocaines."
+                    "title": "Recherche des Causes",
+                    "description": "Investigations complémentaires si nécessaire pour identifier l'origine précise des pathologies."
                 },
                 {
-                    "title": "Préconisations de Réparation",
-                    "description": "Propositions techniques détaillées des travaux de reprise nécessaires avec estimation des coûts et planning d'intervention."
+                    "title": "Rédaction du Rapport",
+                    "description": "Description des désordres, analyse technique, responsabilités et préconisations de réparation détaillées."
                 },
                 {
-                    "title": "Rapport d'Expertise Complet",
-                    "description": "Document technique et juridique opposable détaillant constats, analyses, conclusions et responsabilités établies."
+                    "title": "Suivi des Travaux",
+                    "description": "Contrôle de conformité des réparations et validation de la mise en œuvre (sur demande)."
                 }
             ],
-            "ctaTitle": "Une Pathologie Identifiée sur Votre Bâtiment ?",
-            "ctaText": "Faites appel à notre expertise technique pour un diagnostic précis et des solutions adaptées. Intervention rapide à El Jadida et région Doukkala-Abda.",
+            "ctaTitle": "Pourquoi Recourir à un Expert Bâtiment ?",
+            "ctaText": "L'intervention d'un expert permet d'identifier précisément les causes des désordres, d'évaluer l'étendue des dommages, de proposer des solutions de réparation adaptées et de constituer un dossier technique utile en cas de litige, d'assurance ou d'expertise judiciaire. Le rapport d'expertise constitue un document opposable, méthodique et argumenté.",
             "ctaButton": "DEMANDER UNE EXPERTISE"
         },
         "sinistres": {
             "title": "Sinistres et Assurances",
-            "subtitle": "Expertise et défense de vos intérêts face aux compagnies d'assurance",
-            "intro": "En cas de sinistre affectant votre bien immobilier, l'intervention d'un expert indépendant est essentielle pour défendre vos droits face à votre compagnie d'assurance. Nous vous accompagnons dans toutes les étapes du processus d'indemnisation pour obtenir une réparation juste et intégrale des dommages subis.",
+            "subtitle": "Expertise et défense de vos droits - Protection de la propriété intellectuelle",
+            "intro": "En cas de sinistre, de litige ou de contestation concernant un projet de construction, l'intervention d'un expert indépendant est essentielle pour défendre vos droits. Nous vous accompagnons dans la gestion des sinistres, l'expertise contradictoire, la protection de vos documents techniques et la défense de vos intérêts face aux assurances, administrations ou autres parties.\n\nProtection de la Propriété Intellectuelle :\nTous les plans, pièces graphiques, documents, esquisses, déclarations, notices et contenus techniques réalisés dans le cadre d'une mission restent la propriété intellectuelle exclusive de leur auteur. Ils ne peuvent être réutilisés, transmis, modifiés ou exploités sans accord écrit préalable. Toute utilisation non autorisée constitue une contrefaçon (article L.335-3 du Code de la Propriété Intellectuelle) et peut donner lieu à une procédure civile assortie de dommages et intérêts.",
             "types": {
-                "degatsEaux": "Dégâts des Eaux",
-                "degatsEauxDesc": "Fuites, ruptures de canalisations, infiltrations : nous établissons un constat précis des dommages, identifions les causes et estimons le coût complet de remise en état.",
-                "incendie": "Incendie et Explosions",
-                "incendieDesc": "Expertise post-incendie complète : évaluation des dommages structurels et mobiliers, chiffrage des travaux de reconstruction et de réhabilitation.",
-                "catastrophesNaturelles": "Catastrophes Naturelles",
-                "catastrophesNaturellesDesc": "Inondations, séismes, tempêtes : constat immédiat des dégâts, documentation complète et assistance pour l'obtention de l'indemnisation maximale.",
-                "vices": "Vices de Construction",
-                "vicesDesc": "Malfaçons et défauts de construction : expertise technique pour établir les responsabilités et obtenir réparation auprès des constructeurs et assurances décennales.",
-                "effondrement": "Effondrement et Dommages Structurels",
-                "effondrementDesc": "Sinistres graves affectant la solidité du bâtiment : analyse structurelle, évaluation des risques et définition des mesures d'urgence nécessaires."
+                "degatsEaux": "1. Annulation de Permis et Litiges Administratifs",
+                "degatsEauxDesc": "Gestion des situations d'annulation de permis de construire, contestations administratives et mise en demeure concernant l'utilisation non autorisée de documents techniques. Défense des droits de propriété intellectuelle et accompagnement juridique complet.",
+                "incendie": "2. Facturation et Règlements Professionnels",
+                "incendieDesc": "Clarification des facturations, gestion des règlements entre parties, rectification des interprétations erronées concernant les paiements et charges professionnelles. Établissement de documents officiels confirmant les règlements effectués.",
+                "catastrophesNaturelles": "3. Protection des Documents et Propriété Intellectuelle",
+                "catastrophesNaturellesDesc": "Mise en demeure et interdiction formelle de réutilisation des plans, documents graphiques, pièces écrites et visuels protégés par le Code de la propriété intellectuelle. Prévention et action contre la contrefaçon et l'utilisation non autorisée.",
+                "vices": "4. Expertise Contradictoire et Sinistres",
+                "vicesDesc": "Malfaçons, défauts de construction, sinistres divers : expertise technique pour établir les responsabilités, constater les dommages et obtenir réparation auprès des constructeurs, assurances décennales ou autres parties.",
+                "effondrement": "5. Contentieux et Procédures Civiles",
+                "effondrementDesc": "Engagement des procédures nécessaires en cas de non-respect des droits, utilisation frauduleuse de documents, préjudice professionnel. Assistance juridique complète pour la défense de vos intérêts civils et pénaux."
             },
-            "processTitle": "Le Processus de Gestion de Sinistre",
+            "processTitle": "Nos Interventions et Démarches",
             "processSteps": [
                 {
-                    "title": "Déclaration du Sinistre",
-                    "description": "Contactez immédiatement votre assureur et faites appel à notre expertise indépendante pour protéger vos intérêts dès le départ."
+                    "title": "Mise en Demeure et Notifications",
+                    "description": "Rédaction et envoi de mises en demeure formelles concernant l'utilisation non autorisée de documents, l'annulation de permis, ou tout autre manquement aux obligations contractuelles ou légales."
                 },
                 {
-                    "title": "Expertise Contradictoire",
-                    "description": "L'expert de l'assurance et notre expert se réunissent pour constater les dommages. Nous veillons à ce que tous les préjudices soient correctement identifiés et chiffrés."
+                    "title": "Clarifications Factuelles",
+                    "description": "Rectification des affirmations erronées, établissement de documents officiels (factures acquittées, attestations de paiement) et clarification des montants et modalités de règlement."
                 },
                 {
-                    "title": "Rapport d'Expertise",
-                    "description": "Rédaction d'un rapport technique détaillé avec photos, mesures et estimation précise du coût de remise en état conforme aux normes."
+                    "title": "Protection de la Propriété Intellectuelle",
+                    "description": "Rappel des droits d'auteur, interdiction formelle de réutilisation des documents techniques, mise en garde contre la contrefaçon et ses conséquences civiles et pénales."
                 },
                 {
-                    "title": "Négociation de l'Indemnisation",
-                    "description": "Nous défendons votre dossier auprès de l'assureur pour obtenir une indemnisation juste tenant compte de tous les préjudices directs et indirects."
+                    "title": "Expertise Technique et Constat",
+                    "description": "Évaluation des dommages, constats contradictoires, identification des responsabilités et chiffrage précis des préjudices subis."
                 },
                 {
-                    "title": "Suivi des Travaux",
-                    "description": "Assistance technique durant la phase de réparation pour garantir la conformité des travaux réalisés et la bonne utilisation des fonds d'indemnisation."
+                    "title": "Engagement des Procédures Nécessaires",
+                    "description": "En cas de non-respect des droits ou d'utilisation frauduleuse, engagement des démarches civiles et pénales pour défendre vos intérêts et obtenir réparation."
                 }
             ],
-            "roleTitle": "Notre Rôle d'Expert Indépendant",
+            "roleTitle": "Points Essentiels à Retenir",
             "rolePoints": [
-                "Évaluation exhaustive et objective de l'ensemble des dommages matériels et préjudices subis",
-                "Contre-expertise systématique des rapports établis par l'expert mandaté par votre compagnie d'assurance",
-                "Défense technique de vos intérêts lors des expertises contradictoires sur site",
-                "Maximisation légitime de votre indemnisation en incluant tous les postes de préjudice",
-                "Accompagnement complet jusqu'à règlement définitif du sinistre et réception des travaux",
-                "Assistance en cas de refus d'indemnisation ou de sous-évaluation manifeste des dommages"
+                "Tous les plans et documents techniques restent la propriété intellectuelle exclusive de leur auteur",
+                "Toute réutilisation, transmission ou modification non autorisée constitue une contrefaçon punissable",
+                "Les factures et règlements doivent être clarifiés sur des bases factuelles et exactes",
+                "En cas d'annulation de permis, l'interdiction d'utilisation des documents s'applique strictement",
+                "L'expert indépendant défend vos droits et intérêts face aux assurances, administrations et autres parties",
+                "En cas de litige, des procédures civiles et pénales peuvent être engagées pour obtenir réparation"
             ],
-            "ctaTitle": "Victime d'un Sinistre ?",
-            "ctaText": "Ne restez pas seul face à votre assurance. Notre expertise indépendante garantit vos droits et optimise votre indemnisation. Intervention rapide partout dans la région.",
+            "ctaTitle": "Besoin de Défendre vos Droits ?",
+            "ctaText": "Face à un litige, une contestation, une utilisation non autorisée de vos documents ou un sinistre, notre expertise indépendante vous accompagne pour clarifier la situation, protéger vos droits et engager les démarches nécessaires. Intervention rapide et défense rigoureuse de vos intérêts.",
             "ctaButton": "CONTACTEZ UN EXPERT"
         }
     },

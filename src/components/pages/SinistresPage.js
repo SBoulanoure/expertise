@@ -2,7 +2,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faArrowLeft, faCheckCircle, faShieldAlt, faFire, faWater, faBolt, faWind, faSnowflake, faExplosion } from '@fortawesome/free-solid-svg-icons';
+import { faArrowLeft, faCheckCircle, faShieldAlt, faFileContract, faMoneyCheckDollar, faLock, faScaleBalanced, faGavel } from '@fortawesome/free-solid-svg-icons';
 import './DossiersPage.css';
 
 function SinistresPage() {
@@ -10,34 +10,34 @@ function SinistresPage() {
 
   const sinistres = [
     {
-      icon: faWater,
+      icon: faFileContract,
       titleKey: 'dossiers.sinistres.types.degatsEaux',
       descKey: 'dossiers.sinistres.types.degatsEauxDesc',
-      image: 'https://images.unsplash.com/photo-1590642821220-44a09a99fbfc?w=800&q=80'
+      image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80'
     },
     {
-      icon: faFire,
+      icon: faMoneyCheckDollar,
       titleKey: 'dossiers.sinistres.types.incendie',
       descKey: 'dossiers.sinistres.types.incendieDesc',
-      image: 'https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&q=80'
+      image: require('../../facturation-reglements.jpg')
     },
     {
-      icon: faWind,
+      icon: faLock,
       titleKey: 'dossiers.sinistres.types.catastrophesNaturelles',
       descKey: 'dossiers.sinistres.types.catastrophesNaturellesDesc',
-      image: 'https://images.unsplash.com/photo-1527482797697-8795b05a13fe?w=800&q=80'
+      image: require('../../protection-documents.jpg')
     },
     {
-      icon: faBolt,
+      icon: faScaleBalanced,
       titleKey: 'dossiers.sinistres.types.vices',
       descKey: 'dossiers.sinistres.types.vicesDesc',
-      image: 'https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=800&q=80'
+      image: require('../../expertise-contradictoire.jpg')
     },
     {
-      icon: faExplosion,
+      icon: faGavel,
       titleKey: 'dossiers.sinistres.types.effondrement',
       descKey: 'dossiers.sinistres.types.effondrementDesc',
-      image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80'
+      image: require('../../contentieux-procédures.jpg')
     }
   ];
 
@@ -67,7 +67,11 @@ function SinistresPage() {
 
           <div className="sinistres-grid">
             {sinistres.map((sinistre, index) => (
-              <div key={index} className="sinistre-card">
+              <div 
+                key={index} 
+                className="sinistre-card"
+                style={{'--category-index': index}}
+              >
                 <div className="sinistre-image">
                   <img src={sinistre.image} alt={t(sinistre.titleKey)} />
                   <div className="sinistre-image-overlay">

@@ -2,7 +2,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { useParams, Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCheckCircle, faSearchPlus, faBalanceScale, faMoneyBillWave, faHome, faExclamationTriangle } from '@fortawesome/free-solid-svg-icons';
+import { faArrowLeft,faCheckCircle, faSearchPlus, faBalanceScale, faMoneyBillWave, faHome, faExclamationTriangle } from '@fortawesome/free-solid-svg-icons';
 import './ExpertisePage.css';
 
 function ExpertisePage() {
@@ -80,7 +80,11 @@ function ExpertisePage() {
     <div className="expertise-page">
       <div className="expertise-hero">
         <div className="container">
-          <Link to="/" className="back-button">{t('expertisePages.backButton')}</Link>
+          
+          <Link to="/" className="back-button">
+                      <FontAwesomeIcon icon={faArrowLeft} />
+                      {t('expertisePages.backButton')}
+                    </Link>
           <div className="expertise-hero-content">
             <div className="expertise-icon-large">
               <FontAwesomeIcon icon={currentMapping.icon} />

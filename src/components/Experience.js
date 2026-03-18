@@ -32,7 +32,11 @@ function Experience() {
         
         <div className="stats-section">
           {t('experience.items', { returnObjects: true }).map((item, index) => (
-            <div key={index} className={`stat-item animate-fadeInUp delay-${(index + 2) * 100} hover-lift`}>
+            <div 
+              key={index} 
+              className={`stat-item animate-fadeInUp delay-${(index + 2) * 100} hover-lift`}
+              style={{'--stat-index': index}}
+            >
               <div className="stat-icon">
                 <FontAwesomeIcon icon={statsIcons[index]} />
               </div>
@@ -48,8 +52,12 @@ function Experience() {
               <Link 
                 to={`/expertise/${expertise.link}`} 
                 key={expertise.key} 
-                className={`expertise-card animate-scaleIn delay-${700 + index * 100} hover-lift hover-glow`}
-                style={{ textDecoration: 'none', color: 'inherit' }}
+                className="expertise-card"
+                style={{ 
+                  textDecoration: 'none', 
+                  color: 'inherit',
+                  '--card-index': index
+                }}
               >
                 <div className="expertise-icon">
                   <FontAwesomeIcon icon={expertise.icon} />

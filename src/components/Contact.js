@@ -25,9 +25,9 @@ function Contact() {
     e.preventDefault();
     
     // Create email content
-    const emailSubject = `[ECOBATISSEUR] ${formData.subject}`;
+    const emailSubject = `[Moriningeneri] ${formData.subject}`;
     const emailBody = `
-Nouveau message de contact depuis le site ECOBATISSEUR
+Nouveau message de contact depuis le site Moriningeneri
 
 Nom: ${formData.name}
 Email: ${formData.email}

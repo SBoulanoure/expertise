@@ -35,7 +35,7 @@ function Footer() {
               <p>{t('footer.contact.hoursValue')}</p>
             </div>
 
-            <div className="footer-column">
+            {/* <div className="footer-column">
               <select className="expert-select">
                 <option>{t('footer.selectExpert')}</option>
               </select>
@@ -44,7 +44,7 @@ function Footer() {
                 <a href="#linkedin">in</a>
                 <a href="#instagram">📷</a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

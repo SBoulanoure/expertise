@@ -36,7 +36,11 @@ function Services() {
         <h2 className="services-title animate-fadeInUp">{t('services.title')}</h2>
         <div className="services-grid">
           {services.map((service, index) => (
-            <div key={service.key} className={`service-card animate-fadeInUp delay-${(index + 2) * 100} hover-lift`}>
+            <div 
+              key={service.key} 
+              className={`service-card animate-fadeInUp delay-${(index + 2) * 100} hover-lift`}
+              style={{'--card-index': index}}
+            >
               <div className="service-icon">
                 <FontAwesomeIcon icon={service.icon} />
               </div>

@@ -14,7 +14,7 @@ function ActualitesPage() {
   const articleImages = [
     'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80', // Energy/thermal regulations
     'https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80', // Construction/cracks
-    'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80'  // Legal/insurance
+    require('../../extension-garantie.jpg'), // Insurance/guarantee extension
   ];
 
   return (

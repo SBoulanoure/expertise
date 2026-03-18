@@ -9,12 +9,12 @@
     },
     "hero": {
         "title": "Expert Conseil en Litiges de Construction",
-        "subtitle": "ECOBATISSEUR SARL - Architecture, Urbanisme & Territoires Durables. Notre service d'expertise judiciaire en bâtiment, basé à El Jadida, vous offre un accompagnement technique et juridique complet pour défendre vos intérêts dans tous les litiges liés à la construction dans la région Doukkala–Abda.",
+        "subtitle": "Moriningeneri  - Architecture, Urbanisme & Territoires Durables. Notre service d'expertise judiciaire en bâtiment, basé à El Jadida, vous offre un accompagnement technique et juridique complet pour défendre vos intérêts dans tous les litiges liés à la construction dans la région Doukkala–Abda.",
         "buttonContact": "CONTACTEZ-NOUS"
     },
     "intro": {
-        "title": "ECOBATISSEUR SARL – Expertise Judiciaire & Technique ",
-        "description": "En tant que bureau d’études marocain spécialisé en architecture, urbanisme et expertise bâtiment, ECOBATISSEUR SARL propose un service haut de gamme d’expertise judiciaire pour accompagner particuliers, entreprises et institutions lors de litiges liés à la construction. ",
+        "title": "Moriningeneri  – Expertise Judiciaire & Technique ",
+        "description": "En tant que bureau d’études marocain spécialisé en architecture, urbanisme et expertise bâtiment, Moriningeneri  propose un service haut de gamme d’expertise judiciaire pour accompagner particuliers, entreprises et institutions lors de litiges liés à la construction. ",
         "subtitle": "Nous mettons à votre disposition :",
         "points": [
             "Une expertise technique certifiée,",
@@ -40,16 +40,16 @@
             "description": "Notre service d'expertise judiciaire se distingue par la qualité et la précision de nos rapports d'expertise. Nous fournissons des évaluations détaillées, étayées par des analyses techniques rigoureuses. Chaque rapport est élaboré dans le respect des normes en vigueur afin de soutenir efficacement votre dossier juridique."
         },
         "service4": { 
-            "title": "ECOBATISSEUR SARL – VOTRE EXPERT CONSEIL EN LITIGES DE CONSTRUCTION",
-            "description": "Lors d’une expertise judiciaire, la bataille se joue principalement sur le terrain technique. C’est là que l’expert d’ECOBATISSEUR SARL intervient en première ligne, en appui stratégique de votre avocat.\n\nLes échanges contradictoires, les Dires techniques envoyés par les parties adverses et les observations adressées à l’expert judiciaire exigent une maîtrise pointue du bâtiment et des normes marocaines. \nAucun avocat ne peut y répondre efficacement sans un technicien spécialisé à ses côtés. \n Chez ECOBATISSEUR SARL, nous assurons cette synergie entre rigueur technique et stratégie juridique, afin de : "
+            "title": "Moriningeneri  – VOTRE EXPERT CONSEIL EN LITIGES DE CONSTRUCTION",
+            "description": "Lors d’une expertise judiciaire, la bataille se joue principalement sur le terrain technique. C’est là que l’expert d’Moriningeneri  intervient en première ligne, en appui stratégique de votre avocat.\n\nLes échanges contradictoires, les Dires techniques envoyés par les parties adverses et les observations adressées à l’expert judiciaire exigent une maîtrise pointue du bâtiment et des normes marocaines. \nAucun avocat ne peut y répondre efficacement sans un technicien spécialisé à ses côtés. \n Chez Moriningeneri , nous assurons cette synergie entre rigueur technique et stratégie juridique, afin de : "
         }
     },
     "experience": {
-        "title": "Notre savoir faire à votre service depuis plus de 10 ans !",
+        "title": "Notre savoir faire à votre service depuis plus de 25 ans !",
         "items": [
             "PLUS AVES COURRIERS ET NOTRE EXPERT SE REND À",
             "NOMBREUX PROCÈS D'ASSISTANCE EN EXPERTISE",
-            "PLUS DE 10 ANS D'EXPERTISE TECHNIQUE ET JUDICIAIRE",
+            "PLUS DE 25 ans D'EXPERTISE TECHNIQUE ET JUDICIAIRE",
             "ASSISTANCE DE VICTIMES SINISTRÉS À EL JADIDA",
             "UN ACCUEIL ATTENTIF ET UN SUIVI DE PROCESSUS JUDICIAIRES"
         ],
@@ -64,7 +64,7 @@
         }
     },
     "footer": {
-        "title": "ECOBATISSEUR SARL - Assistance Expertise Batiment",
+        "title": "Moriningeneri  - Assistance Expertise Batiment",
         "contact": {
             "email": "E-mail :",
             "emailValue": "Archidesigner@hotmail.fr",
@@ -81,7 +81,7 @@
             "button": "JE M'INSCRIS GRATUITEMENT"
         },
         "selectExpert": "Expert bâtiment dans votre ville",
-        "copyright": "Copyright @2025 | Partenaire confidentialité | Mentions légales | © ECOBATISSEUR SARL"
+        "copyright": "Copyright @2025 | Partenaire confidentialité | Mentions légales | © Moriningeneri "
     },
     "faq": {
         "title": "Qui choisit l'expert judiciaire ?",
